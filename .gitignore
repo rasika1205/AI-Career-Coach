@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+.venv/Lib
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Runtime uploads & indexes
+uploads/
+vector_index/
+*.faiss
+*.pkl
+
+# Env & secrets
+.env
