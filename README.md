@@ -26,16 +26,6 @@ AI Career Coach is a web application that leverages advanced AI models to analyz
   - Notable Achievements
   - **Interactive Q&A:** Ask career questions and get context-aware answers from the AI.
 
-## Features
-
-- **Resume Analysis**: Upload your resume (PDF) to receive a structured summary covering:
-  - Career Objective
-  - Skills and Expertise
-  - Professional Experience
-  - Educational Background
-  - Notable Achievements
-
-- **Interactive Q&A**: Ask questions about your resume or career, and get context-aware answers from the AI.
 ## Demo
 <img width="1848" height="910" alt="Screenshot 2025-07-13 124954" src="https://github.com/user-attachments/assets/6ac3dd54-4deb-40a9-ac30-14894b7d6a56" />
 
