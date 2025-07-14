@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Build Passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![License](https://img.shields.io/badge/license-proprietary-lightgrey.svg)
+
 # AI Career Coach
 
 AI Career Coach is a web application that leverages advanced AI models to analyze resumes and provide career coaching. Users can upload their resumes in PDF format and receive a comprehensive summary highlighting their skills, experience, educational background, and achievements. The app also allows users to ask specific career-related questions based on their uploaded resume.
@@ -88,10 +92,13 @@ AI Career Coach is a web application that leverages advanced AI models to analyz
 
 ## License
 
-Proprietary, contact owner.
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![Build Passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![License](https://img.shields.io/badge/license-proprietary-lightgrey.svg)
+This project is **proprietary** and protected by copyright © 2025 Rasika Gautam.
+
+You are welcome to view the code for educational or evaluation purposes (e.g., portfolio review by recruiters).  
+However, you may **not copy, modify, redistribute, or claim this project as your own** under any circumstances — including in interviews or job applications — without written permission.
+
 ---
 
-Feel free to contribute or open issues for suggestions and improvements!
+Feel free to explore the code.
+
+_Developed with 💡 by [Rasika Gautam](https://github.com/rasika1205)_
